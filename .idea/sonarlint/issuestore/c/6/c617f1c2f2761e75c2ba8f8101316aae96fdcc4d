@@ -1,0 +1,13 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À²Æäÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°éªÒşÿÿÿÿ
+w
+java:S4165"aRemove this useless assignment; "cpf" already holds the assigned value along all execution paths.(¸ÜÏ
+5
+java:S3010"Remove this assignment of "id".(¨Ù€È
+E
+java:S1172"*Remove this unused method parameter "CPF".(À²Æäÿÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(¸ÜÏ
+A
+java:S1068"&Remove this unused "id" private field.(şÅê½øÿÿÿÿ
